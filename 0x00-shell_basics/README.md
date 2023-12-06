@@ -6,3 +6,4 @@ This is a folder for my shell basics project
 [-] Created 4-listmorefiles
 [-] Created 5-listfilesdigitonly
 [-] Created 6-firstdirectory
+[-] Created 7-movethatfile
