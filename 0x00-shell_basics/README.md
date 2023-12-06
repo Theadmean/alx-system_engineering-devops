@@ -7,3 +7,4 @@ This is a folder for my shell basics project
 [-] Created 5-listfilesdigitonly
 [-] Created 6-firstdirectory
 [-] Created 7-movethatfile
+[-] Created 8-firstdelete
