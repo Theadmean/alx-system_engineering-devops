@@ -12,3 +12,4 @@ This is a folder for my shell basics project
 [-] Created 10-back
 [-] Created 11-lists
 [-] Created 12-file_type
+[-] Created 13-symbolic_link
