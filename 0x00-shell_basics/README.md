@@ -5,3 +5,4 @@ This is a folder for my shell basics project
 [-] Created 3-listfiles
 [-] Created 4-listmorefiles
 [-] Created 5-listfilesdigitonly
+[-] Created 6-firstdirectory
