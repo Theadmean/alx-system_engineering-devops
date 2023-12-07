@@ -9,3 +9,4 @@ This is my project folder for shell permission
 [-] Created 7-everybody
 [-] Created 8-James_Bond
 [-] Created 9-John_Doe
+[-] Created 10-mirror_permissions
