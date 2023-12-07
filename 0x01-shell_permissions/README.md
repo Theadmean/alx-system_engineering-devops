@@ -6,3 +6,4 @@ This is my project folder for shell permission
 [-] Created 4-empty
 [-] Created 5-execute
 [-] Created 6-multiple_permissions
+[-] Created 7-everybody
