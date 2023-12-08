@@ -14,3 +14,4 @@ This is my project folder for shell permission
 [-] Created 12-directory_permissions
 [-] Created 13-change_group
 [-] Created 100-change_owner_and_group
+[-] Created 101-symbolic_link_permissions
