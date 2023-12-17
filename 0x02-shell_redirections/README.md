@@ -10,3 +10,4 @@ Welcome to my shell-redirection projec
 [✓] Created 8-cwd_state
 [✓] Created 9-duplicate_last_line
 [✓] Created 10-no_more_js
+[✓] Created 11-directories
