@@ -21,3 +21,4 @@ Welcome to my shell-redirection projec
 [✓] Created 19-AZ
 [✓] Created 20-hiago
 [✓] Created 21-reverse
+[✓] Created 22-users_and_homes
