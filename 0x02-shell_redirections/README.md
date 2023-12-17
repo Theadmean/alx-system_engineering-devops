@@ -4,3 +4,4 @@ Welcome to my shell-redirection projec
 [✓] Created 2-hellofile
 [✓] Created 3-twofiles
 [✓] Created 4-lastlines
+[✓] Created 5-firstlines
