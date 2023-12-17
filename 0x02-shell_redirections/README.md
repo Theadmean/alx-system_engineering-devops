@@ -7,3 +7,4 @@ Welcome to my shell-redirection projec
 [✓] Created 5-firstlines
 [✓] Created 6-third_line
 [✓] Created 7-file
+[✓] Created 8-cwd_state
