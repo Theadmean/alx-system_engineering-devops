@@ -6,3 +6,4 @@ Welcome to my shell-redirection projec
 [✓] Created 4-lastlines
 [✓] Created 5-firstlines
 [✓] Created 6-third_line
+[✓] Created 7-file
