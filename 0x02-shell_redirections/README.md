@@ -14,3 +14,4 @@ Welcome to my shell-redirection projec
 [✓] Created 12-newest_files
 [✓] Created 13-unique
 [✓] Created 14-findthatword
+[✓] Created 15-countthatword
