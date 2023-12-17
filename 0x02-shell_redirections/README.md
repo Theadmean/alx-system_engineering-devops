@@ -8,3 +8,4 @@ Welcome to my shell-redirection projec
 [✓] Created 6-third_line
 [✓] Created 7-file
 [✓] Created 8-cwd_state
+[✓] Created 9-duplicate_last_line
