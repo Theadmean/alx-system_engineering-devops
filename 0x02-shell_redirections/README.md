@@ -18,3 +18,4 @@ Welcome to my shell-redirection projec
 [✓] Created 16-whatsnext
 [✓] Created 17-hidethisword
 [✓] Created 18-letteronly
+[✓] Created 19-AZ
