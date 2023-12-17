@@ -16,3 +16,4 @@ Welcome to my shell-redirection projec
 [✓] Created 14-findthatword
 [✓] Created 15-countthatword
 [✓] Created 16-whatsnext
+[✓] Created 17-hidethisword
