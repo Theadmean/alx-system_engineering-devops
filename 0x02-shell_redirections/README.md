@@ -19,3 +19,4 @@ Welcome to my shell-redirection projec
 [✓] Created 17-hidethisword
 [✓] Created 18-letteronly
 [✓] Created 19-AZ
+[✓] Created 20-hiago
